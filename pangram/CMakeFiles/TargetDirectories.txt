@@ -1,0 +1,4 @@
+/home/bongani/snap/exercism/5/exercism/cpp/pangram/CMakeFiles/rebuild_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/pangram/CMakeFiles/edit_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/pangram/CMakeFiles/pangram.dir
+/home/bongani/snap/exercism/5/exercism/cpp/pangram/CMakeFiles/test_pangram.dir

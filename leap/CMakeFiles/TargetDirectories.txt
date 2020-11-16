@@ -1,0 +1,4 @@
+/home/bongani/snap/exercism/5/exercism/cpp/leap/CMakeFiles/rebuild_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/leap/CMakeFiles/edit_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/leap/CMakeFiles/leap.dir
+/home/bongani/snap/exercism/5/exercism/cpp/leap/CMakeFiles/test_leap.dir

@@ -1,0 +1,4 @@
+/home/bongani/snap/exercism/5/exercism/cpp/raindrops/CMakeFiles/rebuild_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/raindrops/CMakeFiles/edit_cache.dir
+/home/bongani/snap/exercism/5/exercism/cpp/raindrops/CMakeFiles/raindrops.dir
+/home/bongani/snap/exercism/5/exercism/cpp/raindrops/CMakeFiles/test_raindrops.dir
